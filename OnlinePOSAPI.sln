@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlinePOSAPI", "OnlinePOSAPI.csproj", "{4E1C3ECB-CBBC-4900-8DF3-38A674DB21A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BabyStorePOS", "..\BabyStorePOS\BabyStorePOS.csproj", "{324E40F6-E7B5-475E-A557-409CC27DA856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E1C3ECB-CBBC-4900-8DF3-38A674DB21A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1C3ECB-CBBC-4900-8DF3-38A674DB21A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1C3ECB-CBBC-4900-8DF3-38A674DB21A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1C3ECB-CBBC-4900-8DF3-38A674DB21A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324E40F6-E7B5-475E-A557-409CC27DA856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324E40F6-E7B5-475E-A557-409CC27DA856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324E40F6-E7B5-475E-A557-409CC27DA856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324E40F6-E7B5-475E-A557-409CC27DA856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF09349-CF63-4E0B-9D98-7CC5F0121150}
+	EndGlobalSection
+EndGlobal
