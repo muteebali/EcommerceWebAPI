@@ -1,4 +1,4 @@
-# Ecommerce Web API Usin Dot Net Core
+# Ecommerce Web API Using Dot Net Core
 Welcome to the EcommerceWebAPI repository! This project is a web API developed in .NET Core using the Code-First approach for database management. It is designed to serve as a resource for beginners looking to learn about building web APIs in .NET Core.
 
 ### Features
